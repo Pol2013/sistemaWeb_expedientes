@@ -1,10 +1,10 @@
 <?php 
 
 class Conect_MySql {   
-     var $obj = array ( "dbname"	=>	"registros",
-                       "dbuser"		=>	"root",
-                       "dbpwd"		=>	""	,
-                       "dbhost"		=>	"192.168.1.45"	);
+     var $obj = array ( "dbname"	=>	"u758264354_wordp",
+                       "dbuser"		=>	"u758264354_wordp",
+                       "dbpwd"		=>	"sistemas:2017"	,
+                       "dbhost"		=>	"mysql.hostinger.es"	);
 
 
      var $q_id	="";
